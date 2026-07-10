@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - Cars Dealership</title>
+    <link rel="stylesheet" href="/static/style.css"> 
+</head>
+<body>
+    <nav>
+        <a href="/">Home</a>
+        <a href="/about" class="active">About Us</a>
+        <a href="/contact">Contact Us</a>
+    </nav>
+
+    <header>
+        <h1>About Our Dealership</h1>
+        <p>Providing top-quality vehicles nationwide since 2010.</p>
+    </header>
+
+    <section class="team-section">
+        <h2>Meet the Team</h2>
+        
+        <div class="team-member">
+            <img src="https://via.placeholder.com/150" alt="Jane Doe">
+            <h3>Jane Doe</h3>
+            <p><strong>Role:</strong> CEO & Founder</p>
+            <p>Jane has over 20 years of experience in the automotive industry and leads our national expansion.</p>
+            <p><strong>Email:</strong> jane.doe@carsdealership.com</p>
+        </div>
+
+        <div class="team-member">
+            <img src="https://via.placeholder.com/150" alt="John Smith">
+            <h3>John Smith</h3>
+            <p><strong>Role:</strong> Lead Sales Director</p>
+            <p>John ensures every customer drives away with a vehicle that perfectly matches their needs.</p>
+            <p><strong>Email:</strong> john.smith@carsdealership.com</p>
+        </div>
+    </section>
+</body>
+</html>
